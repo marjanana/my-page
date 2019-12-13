@@ -1,0 +1,80 @@
+@media only screen and (min-width: 1024px) {
+    .div-1 {
+        width: 33.333333%;
+        background-color: yellow;
+        float: left;
+    }
+    .div-2 {
+        width: 10%;
+        background-color: blue;
+        display: inline-block;
+    }
+    .div-3 {
+        width: 23.03%;
+        background-color: blue;
+        display: inline;
+        position: absolute;
+    }
+    .div-5 {
+        width: 26%;
+        background-color: green;
+        float: ;
+    }
+    .div-6 {
+        width: 12.66%;
+        background-color: pink;
+        float: left;
+    }
+    .div-7 {
+        width: 7%;
+        background-color: red;
+        float: left;
+
+    }
+    .div-8 {
+        width: 7%;
+        background-color: red;
+        float: right;
+    }
+    .div-9 {
+        width: 14%;
+        height: 80%;
+        background-color: red;
+    }
+    .div-4 {
+        width: 33.333333%;
+        background-color: grey;
+        float: right;
+    }
+    .div-10 {
+        width: 40%;
+        background-color: orange;
+        clear: right;
+        float: right;
+    }
+    #down {
+        display: flex;
+    }
+    .container {}
+    .logo {
+         padding: 8% 5% 8%;
+    }
+    .resume {
+         padding: 28.5% 2% 6% 2%;
+    }
+    .x {
+         padding: 70% 2% 10% 2%;
+    }
+    .writing {
+         padding: 20% 2% 4% 2%;
+    }
+    .web {
+         padding: 20% 2% 15% 2%;
+      }
+    .email {
+         padding: 20% 2% 25% 40%;
+    }
+    .y {
+         padding: 1% 2% 20% 40%;
+    }
+}

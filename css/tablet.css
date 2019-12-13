@@ -1,0 +1,167 @@
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
+    .writing {
+    font-size: 1.5em;
+    }
+    #canvas {
+        background-color: #F4F0CB;
+        margin-top: 3%;
+        border-radius: 5px;
+    }
+    #greenish, #lines, #red, #peach, #p-green {
+        width: 95% !important;
+        margin: auto;
+    }
+    #logic-tut {
+        float: left;
+        padding-left: 5%;
+    }
+    #tut_header, #mail_header {
+        float: right;
+        padding-right: 1%;
+    }
+    #margin {
+        margin-bottom: 5em;
+    }
+    .div-1 {
+        width: 25%;
+        float: left;
+        display: inline;
+        padding: 2px 34px 2px 34px;
+    }
+    .div-2 {
+        width: 15%;
+        float: left;
+    }
+    .div-3 {
+        width: 42.5%;
+        float: left;
+        font-size: 23px;
+    }
+    .div-4 {
+        width: 20%;
+        display: inline;
+        padding-left: 2%;
+        padding-top: 5%;
+        font-size: 25px;
+    }
+    .div-5 {
+        width: 42.5%;
+        float: left;
+        font-size: 25.4px;
+    }
+    .div-6 {
+        width: 25%;
+        float: right;
+        display: inline;
+    }
+    .div-7 {
+        width: 25%;
+        float: left;
+        display: inline;
+    }
+    .div-8 {
+        width: 25%;
+        float: left;
+        display: inline;
+    }
+    .div-9 {
+        width: 25%;
+        float: right;
+        display: inline;
+    }
+    .div-10 {
+        width: 35%;
+        float: right;
+        display: inline;
+        font-size: 29px;
+        padding: 5px 5px 5px 59px;
+    }
+    .container-01 {
+        width: 100%;
+        display: inline;
+    }
+    .container1 {
+        width: 100%;
+        text-align: center;
+    }
+    .container {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #ccff33;
+    }
+    #cont {
+        margin-top: 7%;
+        margin-bottom: 7%;
+    }
+    #web1 {
+        float: right;
+        font-size: 25px;
+        font-family: 'Krona One', sans-serif;
+        color: #804000;
+    }
+    .x {
+        padding: 1px;
+        font-size: 16.5px;
+    }
+    #logic {
+        padding-top: 1.5%;
+        float: left;
+    }
+    #mail_header{
+        text-align: right;
+        padding-top: 1.5%;
+        color: #eeccff;
+    }
+    #form[type="text"] {
+        font-size: 20px;
+        font-family: 'Lato', sans-serif;
+        color: grey;
+    }
+    #form1[type="text"] {
+        font-size: 20px;
+        width: 49.5%;
+        float: left;
+        font-family: 'Lato', sans-serif;
+        margin: 2% 0 4% 0;
+    }
+    #form2[type="email"] {
+        font-size: 20px;
+        width: 49.5%;
+        float: right;
+        font-family: 'Lato', sans-serif;
+        margin: 2% 0 4% 0;
+    }
+    #writ_header {
+        color: #804000;
+        font-size: 2.5em;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    #web_design {
+        color: #804000;
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    #writing_portfolio {
+        text-align: left;
+        padding-left: 12%;
+    }
+    #writing_portfolio1 {
+        text-align: center;
+    }
+    .caption {
+        text-align: center;
+
+    }
+    .project-titles {
+        text-align: center;
+    }
+    #wportf {
+    border-top: 1px solid;
+    text-align: left;
+    }
+    #writing_portfolio {
+        padding-left: 5%;
+    }
+
+}

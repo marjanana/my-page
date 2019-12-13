@@ -1,0 +1,202 @@
+@media only screen and (min-width: 1024px) and (max-width: 1699px) {
+    .writing {
+    font-size: 2em;
+    }
+    #canvas {
+        margin: auto;
+        margin-top: 5% !important;
+        background-color: #F4F0CB;
+        border-radius: 5px;
+    }
+    #greenish, #lines, #red, #peach, #p-green {
+        width: 80% !important;
+        margin: auto;
+    }
+    .g {
+        background-color: #ccff33;
+        width: 100%;
+        z-index: -1;
+        display: inline-flex;
+        margin-top: 5%;
+    }
+    .header {
+        padding: 2% 2% 2% 2%;
+    }
+    .div-1 {
+        width: 33.333333%;
+        float: left;
+        padding: 1px 0px 1px 0px;
+    }
+    .div-2 {
+        width: 6%;
+        display: inline-block;
+        padding: 22px 0.8px 22px 2.6%;
+    }
+    .div-3 {
+        width: 20.5%;
+        display: inline-block;
+        position: absolute;
+        padding: 0px 3px 10px 2px;
+    }
+    .div-5 {
+        width: 26.2%;
+        padding: 14px 0 13px 0;
+        float: left;
+    }
+    .div-6 {
+        width: 12%;
+        float: left;
+        padding: 49px 2px 49px;
+    }
+    .div-7 {
+        width: 6.8%;
+        float: left;
+        padding: 1px 1.2px 1px 1px;
+    }
+    .div-8 {
+        width: 6.8%;
+        padding: 1px 1.2px 1px 1px;
+        float: left;
+    }
+    .div-9 {
+        width: 13.7%;
+        padding: 1.5px 1.5px 1px;
+        float: left;
+    }
+    .div-4 {
+        width: 33.33%;
+        float: right;
+        padding: 8px 2% 8px 2%;
+    }
+    .div-10 {
+        width: 39.73%;
+        float: right;
+    }
+    #down {
+        display: flex;
+    }
+    .logo {
+        padding: 30px 5% 30px 20%;
+    }
+    #logic {
+        padding-top: 1%;
+        float: left;
+    }
+    #logic-envelope{
+        padding-top: 1.5%;
+        float: left;
+    }
+    #logic-tut {
+        padding-top: 4%;
+        float: left;
+    }
+    .resume {
+        padding: 1% 2% 1% 30%;
+        font-size: 30px;
+    }
+    .y {
+        padding: 0px 0px 0px 25px;
+        font-size: 30.4px;
+    }
+    .web {
+        padding-left: 25%;
+        font-size: 30px;
+    }
+    #web {
+        padding-left: 25%;
+        font-size: 29px;
+        font-family: 'Krona One', sans-serif;
+    }
+    #web1 {
+        float: right;
+        font-size: 25px;
+        font-family: 'Krona One', sans-serif;
+        color: #804000;
+    }
+    .email {
+        margin: auto;
+    }
+    .fb,
+    .in {
+        margin: auto;
+        padding: 20px 3px 20px;
+    }
+    .copyr {
+        padding: 0;
+    }
+    #green{
+        padding: 2.5px 1px 2.8px 10px;
+    }
+    .col-12 {
+        padding: 2%;
+    }
+    #writ_header {
+        color: #804000;
+        float: right;
+        padding-right: 8%;
+        font-size: 2.5em;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    #mail_header {
+        color: #c44dff;
+        float: right;
+        padding-right: 8%;
+        font-size: 2.5em;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    #tut_header {
+        color: #804000;
+        font-family: 'Josefin Sans', sans-serif;
+        float: right;
+        padding-top: 5%;
+        padding-right: 8%;
+        font-size: 2.9em;
+    }
+    #writing_portfolio {
+        padding: 0.2% 3% 3% 7%;
+    }
+    #writing_portfolio1 {
+        text-align: right;
+        padding-right: 7%;
+    }
+    .tutoring {
+        padding: 3% 8% 3% 10%;
+        line-height: 170%;
+        font-size: 16px;
+    }
+    #envelope_big {
+        font-size: 48px;
+    }
+    #form[type="text"] {
+        font-size: 20px;
+        font-family: 'Lato', sans-serif;
+        color: grey;
+    }
+    #form1[type="text"] {
+        font-size: 20px;
+        width: 49.5%;
+        float: left;
+        font-family: 'Lato', sans-serif;
+        margin: 2% 0 4% 0;
+    }
+    #form2[type="email"] {
+        font-size: 20px;
+        width: 49.5%;
+        float: right;
+        font-family: 'Lato', sans-serif;
+        margin: 2% 0 4% 0;
+    }
+    #margin {
+        margin-bottom: 3em;
+    }
+    nav  {
+        padding-left: 20%;
+    }
+    #wpict{
+        float: right;
+    }
+    .wwriting {
+        padding: 5%;
+        width: 80%;
+    }
+}

@@ -1,0 +1,256 @@
+img {
+    max-width: 100%;
+}
+body {
+    background-color: #F4F0CB;
+}
+#peach {
+    background-color: #F4F0CB;
+}
+#p-green{
+    background-color: #ccff33;
+}
+#red{
+    background-color: #ff6633;
+}
+#greenish {
+    background-color: #eeccff;
+}
+#lines {
+    width: 100%; background-color: blue;
+    background-color: #ffecb3;
+    background-image: linear-gradient(90deg, transparent 79px, #ffe799 79px, #ffe799 81px, transparent 81px), linear-gradient(#ffe799 .1em, transparent .1em);
+    background-size: 100% 1.2em;
+    color: #662200;
+}
+.box {
+    width: 100%;
+}
+.resume {
+    font-family: 'Oswald', sans-serif;
+}
+.g {
+    background-color: #ccff33;
+    width: 100%;
+    z-index: -1;
+}
+.y {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 700;
+}
+.writing {
+    font-family: 'Josefin Sans', sans-serif;
+}
+#mail_header {
+    color: #eeccff;
+}
+.div-1 {
+    background: url(../img/texture1.jpg) repeat;
+    background-position: center;
+}
+.div-2 {
+    background-color: #e6f9ff;
+}
+.div-3 {
+    background-color: #ccff33;
+}
+.div-4 {
+    background-color: #ffd966;
+    background-image: linear-gradient(90deg, transparent 79px, #ffcc80 79px, #ffcc80 81px, transparent 81px), linear-gradient(#ffcc80 .1em, transparent .1em);
+    background-size: 100% 1.2em;
+    color: #662200;
+}
+.div-5 {
+    background-color: #ff6633;
+}
+.div-6 {
+    background-color: #eeccff;
+}
+.div-7 {
+    background-color: #4da6ff;
+    color: #ffffff;
+}
+.div-8 {
+    background-color: #66dbff;
+    color: #ffffff;
+}
+.div-9 {
+    background-color: #00cc44;
+}
+.div-10 {
+    background-color: #ccff33;
+    color: #4d4d00;
+    background-image: linear-gradient(90deg, transparent 79px, #39e600 79px, #39e600 81px, transparent 81px), linear-gradient(#ccff33 .1em, transparent .1em);
+    background-size: 100% 1.2em;
+}
+.pink {
+    color: #ff1a75;
+}
+.green {
+    color: #ffffff !important;
+}
+#green{
+    color: #00b33c;
+    font-family: 'Bad Script', cursive;
+}
+#web {
+    font-family: 'Krona One', sans-serif;
+}
+.email {
+    color: #88cc00;
+}
+.proj1 {
+    padding: 12% 50% 12% 25%;
+}
+#col-xs-12 {
+    margin-bottom: %;
+    border: 0.1px outset white;
+    border-top: 1px solid #96d1f8;
+    background: #ccff33;
+    background: -webkit-gradient(linear, left top, left bottom, from(##ccff33), to(#daffb3));
+    background: -webkit-linear-gradient(top, #ccff33, #daffb3);
+    background: -moz-linear-gradient(top, #ccff33, #daffb3);
+    background: -ms-linear-gradient(top, #ccff33, #daffb3);
+    background: -o-linear-gradient(top, #ccff33, #daffb3);
+    padding: 5px 10px;
+}
+.footer {
+    text-align: center;
+    color: #d2a679;
+    padding-bottom: 0.5%;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+#writing_portfolio {
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5em;
+    color: #7a7a52;
+    line-height: 200%;
+    font-weight: 600;
+}
+#writing_portfolio1 {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #7a7a52;
+    line-height: 150%;
+}
+
+.footer {
+    font-family: 'Bad Script', cursive;
+}
+input {
+    max-width: 100%;
+    width: 90%;
+    border-radius: 5px;
+    margin: 0;
+    border: 5px solid white;
+    -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin-bottom:10px;
+}
+select {
+    max-width: 100%;
+    width: 100%;
+    border-radius: 5px;
+    border: 5px solid white;
+    -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+}
+textarea {
+    max-width: 100%;
+    width: 100%;
+    border-radius: 5px;
+    margin: 0;
+    border: 5px solid white;
+    -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+#form2 [type="email"] {
+    max-width: 100%;
+    width: 100%;
+    border-radius: 5px;
+    margin: 0;
+    border: 5px solid white;
+    -webkit-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    -moz-box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    box-shadow:
+    inset 0 0 8px  rgba(0,0,0,0.1),
+          0 0 16px rgba(0,0,0,0.1);
+    padding: 15px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 10px 0;
+}
+#submit[type="submit"] {
+    width: 150px;
+    border: 0.1px outset white;
+    background: -webkit-gradient(linear, left top, left bottom, from(#ff66ff), to(#ffe6ff));
+    background: -webkit-linear-gradient(top, #c44dff, #ffe6ff);
+    background: -moz-linear-gradient(top, #c44dff, #ffe6ff);
+    background: -ms-linear-gradient(top, #c44dff, #ffe6ff);
+    background: -o-linear-gradient(top, #c44dff, #ffe6ff);
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    float: left;
+    margin: 0 0 3% 0;
+}
+.project-titles {
+    font-family: 'Lato', sans-serif;
+}
+
+.caption {
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+}
+.img-center {
+    margin: 0px;
+}
+#wportf {
+    border-top: 1px solid;
+    text-align: left;
+}
+#writing_portfolio {
+    text-align: left;
+    font-size: 18px;
+}

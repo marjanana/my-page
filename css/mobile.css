@@ -1,0 +1,162 @@
+@media only screen and (max-width: 768px) {
+  .writing {
+    font-size: 1.3em;
+  }
+  #greenish, #lines, #red, #peach, #p-green {
+      width: 95% !important;
+      margin: auto;
+  }
+  #canvas {
+      background-color: #F4F0CB;
+      margin-top: 2% !important;
+      border-radius: 5px;
+      width: 100% !important;
+      margin: auto;
+  }
+  body {
+      text-align: center;
+  }
+  #margin {
+      margin-bottom: 12%;
+  }
+  .div-1 {
+      width: 100%;
+      order: -2;
+  }
+  .div-2 {
+      width:100%;
+  }
+  .div-3 {
+      width:100%;
+  }
+  .div-4 {
+      width: 100%;
+      order: 0;
+  }
+  .div-5 {
+      width: 100%;
+      float: left;
+      padding: 5% 5% 5% 5%;
+      font-size: 25px;
+  }
+  .div-6 {
+      width: 33.333333%;
+      float: left;
+  }
+  .div-7 {
+      width: 33.333333%;
+      float: left;
+  }
+  .div-8 {
+      width: 33.333333%;
+      float: left;
+  }
+  .div-9 {
+      width:100%;
+      text-align: center;
+  }
+  .div-10 {
+      width: 100%;
+      padding-top: 5%;
+      order: -1;
+      font-size: 20px;
+  }
+  .container-01{
+      width: 100%;
+  }
+  .container1{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .container {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .logobig {
+      width: 35%;
+  }
+  .initials {
+      margin-top: 5%;
+  }
+  .navbar-header {
+      background-image: none;
+      background-image: none;
+      webkit-box-shadow: none;
+      box-shadow: none;
+      border-color: transparent;
+      background-color: transparent;
+      text-align: center;
+  }
+  #web1 {
+      font-size: 20px;
+      font-family: 'Krona One', sans-serif;
+      color: #804000;
+  }
+  #web {
+      font-size: 25px;
+  }
+  #logic {
+      padding-top: 3%;
+      width: 100%;
+  }
+  #writing_portfolio1 {
+      text-align: left;
+  }
+  #writ_header {
+      color: #804000;
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: center;
+  }
+  #tut_header {
+      color: #804000;
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: center;
+      font-size: 2em;
+  }
+  #web_design {
+      color: #804000;
+      font-size: 20px;
+      font-family: 'Josefin Sans', sans-serif;
+      text-align: center;
+  }
+  #green {
+      padding: 1% 1% 1% 1%;
+  }
+  #form[type="text"] {
+      font-size: 20px;
+      font-family: 'Lato', sans-serif;
+      color: grey;
+  }
+  #form1[type="text"] {
+      font-size: 20px;
+      width: 100%;
+      font-family: 'Lato', sans-serif;
+      margin: 0 0 6% 0;
+  }
+  #form2[type="email"] {
+      font-size: 20px;
+      width: 100%;
+      font-family: 'Lato', sans-serif;
+      margin: 0 0 2% 0;
+  }
+  #mail_header {
+      color: #c44dff;
+      font-size: 35px;
+      font-family: 'Josefin Sans', sans-serif;
+  }
+  .tutoring {
+      padding: 3%;
+      text-align: left;
+  }
+  .wwriting {
+      padding: 0 0 5% 2%;
+  }
+  #wportf {
+      padding-left: 1%;
+  }
+  #writing_portfolio {
+      padding-left: 8%;
+  }
+}
